@@ -2,7 +2,6 @@ numpy
 pandas
 asyncio
 requests
-fastapi[all]
 dotenv
 streamlit
 uvicorn
