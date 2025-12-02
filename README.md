@@ -51,13 +51,13 @@ This system utilizes a Sequential Workflow pattern where agents pass the "Travel
 
 ### 📥 Installation Guide
 
-**1. Clone the repository**
+1. Clone the repository**
 Open your terminal and run:
 ```bash
 git clone https://github.com/sathyalhr143/travel_multi_agent_using_beeai_framework.git
 cd travel_multi_agent_using_beeai_framework
 ```
-**2. Create an environment
+2. Create an environment
 ```bash
 # For Windows
 python -m venv venv
@@ -68,7 +68,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-**3. Install Dependencies You can install the dependencies using the requirements.txt file or via the setup script.
+3. Install Dependencies You can install the dependencies using the requirements.txt file or via the setup script.
 
 Option A: Standard Install
 
@@ -83,7 +83,7 @@ pip install -e .
 ```
 
 
-**4. Create a .env file in the root directory.
+4. Create a .env file in the root directory.
 
 Add your API keys. Example:
 
